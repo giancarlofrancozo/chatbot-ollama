@@ -1,0 +1,51 @@
+# INFORMAÇÕES SOBRE PIZZARIA
+
+## Cardápio
+- Pizza Margherita: Molho, mozzarella, tomate e manjericão
+- Pizza Pepperoni: Molho, queijo, pepperoni
+- Pizza Vegetariana: Molho, queijo, brócolis, cenoura, cebola
+- Pizza Quatro Queijos: Mozzarella, provolone, gorgonzola, parmesão
+
+## Preços
+- Pizza pequena (6 fatias): R$ 30
+- Pizza média (8 fatias): R$ 45
+- Pizza grande (12 fatias): R$ 60
+
+## Horário de Funcionamento
+- Segunda a quinta: 18h - 23h
+- Sexta e sábado: 18h - 00h
+- Domingo: 18h - 22h
+
+## Entrega
+- Entrega para bairros próximos (2km): Grátis
+- Acima de 2km: R$ 5
+- Tempo médio de entrega: 30-45 minutos
+- Pedido mínimo: R$ 50
+
+## Contato
+- Telefone: (44) 99999-9999
+- Email: pizzaria@email.com
+- Endereço: Rua das Flores, 123 - Maringá, PR
+
+---
+
+# INFORMAÇÕES SOBRE SEUS PROJETOS
+
+## Sistema Pizzaria (GitHub)
+- Descrição: Sistema completo de gestão de pizzaria
+- Tech: FastAPI, SQLAlchemy, SQLite, JavaScript
+- Features: Autenticação JWT, pedidos, entregas, divisão de conta
+- Link: github.com/giancarlofrancozo/sistema-pizzaria
+
+## Bot Notas Fiscais
+- Descrição: Automação de emissão de NFS-e
+- Tech: Playwright, Flask, Python
+- Função: Automatiza preenchimento de formulários de NFe
+
+---
+
+# DICAS DE RESPOSTA
+- Sempre seja amigável e profissional
+- Se não souber algo, diga "Não tenho essa informação"
+- Não invente informações
+- Se o usuário perguntar algo fora do conhecimento, ofereça contato
